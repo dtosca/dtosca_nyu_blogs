@@ -1,0 +1,17 @@
+---
+layout: page
+title: Archives
+description: My pretty and ugly nail photo archive.
+---
+<link rel="stylesheet" href='css/hoverbox.css'/>
+	<body>
+		<ul class="hoverbox">
+			{% for file in site.static_files %}
+				{% if file.image %}
+					<li>
+						<a href=""><img src="{{file.path}}" alt="d{{file.name}}" /><img src="{{file.path}}" alt="{{file.name}}" class="preview" /></a>
+					</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</body>
