@@ -1,13 +1,13 @@
-title:             Undenailable
-email:             undenailable@gmail.com
-description:       I do nail art sometimes
-author:            Undenailable
+title:             Hacking Audio Hardware
+email:             dtosca@nyu.edu
+description:       Blog for Hacking Audio Hardware
+author:            Diana Tosca
 baseurl:           ""
-url:               "http://undenailable.github.io"
+url:               "http://dianatosca.com"
 
 # Social Profiles
-twitter_username:  undenailable
-instagram_username: undenailable
+twitter_username:  toscadiana
+instagram_username: toscadiana
 
 defaults:
   - scope:
