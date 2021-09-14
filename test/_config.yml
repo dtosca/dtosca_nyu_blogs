@@ -22,3 +22,7 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+  sass:
+  sass_dir: _sass
+  style: compressed
