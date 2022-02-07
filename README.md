@@ -2,6 +2,10 @@
 
 Website blogs for my classes.
 
+Spring 2022:
+
+DM-GY 6043 A Media Theory
+
 Fall 2021:
 
 DM-GY 9103 Hacking Audio Hardware
